@@ -1,3 +1,14 @@
+An awesome gmail demo clone craeted by react js and powerfull redux.In this i have created login page where you have to google sign in(google authentication provided from firebase),simple home page and also i have created compose mail box where you can send email to anyone also we have inbox page.
+
+home page and compose mail page 
+
+![image](https://user-images.githubusercontent.com/34640475/122670445-b2a4f780-d1df-11eb-8d37-d7a201109847.png)
+
+inbox page 
+
+![image](https://user-images.githubusercontent.com/34640475/122670454-c0f31380-d1df-11eb-8db8-39a1ae2803fa.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
